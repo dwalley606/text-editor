@@ -33,6 +33,14 @@ This project is covered under the MIT license. For more information, click the l
 
 The starter code for this project was provided by the GWU Full-Stack Coding bootcamp.
 
+## Link
+
+[Deployed Application](https://text-editor-5b5x.onrender.com)
+
+## Screenshot
+
+![Screenshot of the deployed application](./screenshot.png)
+
 ## Questions
 
 Have questions about this project? Please see my Github profile at https://github.com/dwalley606.
