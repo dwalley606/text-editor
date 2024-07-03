@@ -39,7 +39,7 @@ The starter code for this project was provided by the GWU Full-Stack Coding boot
 
 ## Screenshot
 
-![Screenshot of the deployed application](./screenshot.png)
+![Screenshot](https://github.com/dwalley606/text-editor/assets/127894209/ceb41aab-9026-49f8-8990-e61081f9f54e)
 
 ## Questions
 
